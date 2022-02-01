@@ -19,3 +19,31 @@ if (gradeA == true) {
 } else {
     print("I'm not so sure about coding in Swift")
 }
+
+// Part 5
+// Problem Set 1
+var numOne = 1;
+var numTwo = 2;
+if (numOne > numTwo) {
+    print("numOne > numTwo");
+} else {
+    print("numOne < numTwo");
+}
+
+//Problem Set 2
+var stringA = "A";
+var stringB = "A";
+if (stringA == stringB) {
+    print(stringA + stringB)
+} else {
+    print("Not Equal")
+}
+
+// Problem Set 3
+var varTrue = true;
+var varfalse = false;
+if (varTrue == varfalse) {
+    print("Same")
+} else {
+    print("Not Same")
+}
